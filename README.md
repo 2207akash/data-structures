@@ -1,7 +1,17 @@
 # data-structures
 A list of data structures implemented in Swift
 
-## Linked Lists
+## Linear
 | SNo | Type |
 | --- | --- |
-| 1 | [Singly Linked List](LinkedLists/Swift/SinglyLinkedList.swift) |
+| 1 | Stack |
+| 2 | Queue |
+| 3 | Singly Linked List |
+
+
+# Non-Linear
+
+| SNo | Type |
+| --- | --- |
+| 1 | Binary Tree |
+| 2 | Heap |
