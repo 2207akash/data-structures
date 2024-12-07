@@ -1,5 +1,5 @@
 # data-structures
-A list of data structures implemented in Swift
+A list of data structures implemented in C++ & Swift.
 
 ## Linear
 | SNo | Type |
