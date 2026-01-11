@@ -18,4 +18,4 @@ A list of data structures implemented in C++ & Swift.
 | 1 | Binary Tree |  |  |
 | 2 | Heap |  |  |
 -->
-| 1 | Segment Tree | [C++](Non-Linear/Trees/Segment-Trees/build.cpp) |  |
+| 1 | Segment Tree | [C++](non-linear/trees/segment-tree/segment-tree.cpp) |  |
